@@ -1,0 +1,27 @@
+body {
+  background-color: #ffeedf;
+  color: #145434;
+}
+
+.header {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 100%;
+  height: 60px;
+  border-bottom: 1px solid #145434;
+}
+
+.scardSection {
+  max-width: 1200px;
+}
+
+.card1 {
+  background-color: #145434;
+  color: #ffeedf;
+  margin: 30px;
+}
+/*# sourceMappingURL=style.css.map */
